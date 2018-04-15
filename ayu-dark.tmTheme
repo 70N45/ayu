@@ -20,32 +20,32 @@
 				<key>activeGuide</key>
 				<string>#363F46</string>
 				<key>background</key>
-				<string>#0F1419</string>
+				<string>#1F1F1F</string>
 				<key>caret</key>
 				<string>#F29718</string>
 				<key>findHighlight</key>
 				<string>#F29718</string>
 				<key>findHighlightForeground</key>
-				<string>#0F1419</string>
+				<string>#1F1F1F</string>
 				<key>foreground</key>
 				<string>#BFBAB0</string>
 				<key>guide</key>
 				<string>#20272C</string>
 				<key>gutter</key>
-				<string>#0F1419</string>
+				<string>#1F1F1F</string>
 				<key>gutterForeground</key>
-				<string>#252D33</string>
+				<string>#646464</string>
 				<key>inactiveBackground</key>
-				<string>#0F1419</string>
+				<string>#1F1F1F</string>
 				<key>inactiveSelection</key>
-				<string>#131E27</string>
+				<string>#976612</string>
 				<key>invisibles</key>
 				<string>#252D33</string>
 				<key>lineHighlight</key>
-				<string>#0A0E12</string>
+				<string>#101010</string>
 				<key>popupCss</key>
 				<string>html, body {
-  background-color: #13181D;
+  background-color: #1F1F1F;
   color: #BFBAB0;
 }
 body {
@@ -56,9 +56,9 @@ a {
 }
 </string>
 				<key>selection</key>
-				<string>#16242E</string>
+				<string>#73624b</string>
 				<key>selectionBorder</key>
-				<string>#192B37</string>
+				<string>#F29718</string>
 				<key>shadow</key>
 				<string>#00000010</string>
 				<key>stackGuide</key>
